@@ -108,7 +108,7 @@ if __name__ == "__main__":
         "captcha1.jpg",  # 9LFU3
         "captcha2.jpg",  # TFUJJ
         "captcha3.jpg",  # aEHmA
-        "captchaimage.jpg",
+        "captchaimage.png",
     ]
 
     for img in images:
